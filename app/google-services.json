@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "874852033455",
+    "project_id": "android-api-f8b53",
+    "storage_bucket": "android-api-f8b53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874852033455:android:d5799fff8d71d66fe9c55a",
+        "android_client_info": {
+          "package_name": "com.manhth.ph13394"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG1yGxlygIwVij2FtW_2HHP22UGY1UqVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
